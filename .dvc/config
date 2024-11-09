@@ -1,0 +1,5 @@
+[core]
+    remote = dataset
+    autostage = true
+['remote "dataset"']
+    url = s3://dataset-pl/
